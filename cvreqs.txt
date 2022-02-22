@@ -1,0 +1,13 @@
+ 
+Creating internal company  
+debugged and refactored  company websites
+assisted colleagues with CSS for client websites
+initialised linux on a Virtual Machine 
+deployed websites to production 
+
+
+
+undertook React training through Udemy
+, learning conventions and best practices along the way
+Designing and implementing the front-end platform for internal company websites using HTML, CSS ,
+JS and React.js
